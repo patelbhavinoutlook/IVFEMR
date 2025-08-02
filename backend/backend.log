@@ -1,0 +1,29 @@
+
+> fertyflow-backend@1.0.0 dev
+> ts-node-dev --respawn --transpile-only src/server.ts
+
+[INFO] 10:33:09 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.9.2)
+[2025-08-02T10:33:09.875Z] [INFO] 🚀 FertyFlow Backend Server running on port 5000
+[2025-08-02T10:33:09.876Z] [INFO] 📝 Environment: development
+[2025-08-02T10:33:09.876Z] [INFO] 🌐 CORS enabled for: http://localhost:3000
+[2025-08-02T10:33:09.886Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:33:09.888Z] [INFO] ✅ Database connection successful. Current time: Sat Aug 02 2025 10:33:09 GMT+0000 (Coordinated Universal Time)
+[0mGET /health [32m200[0m 1.159 ms - 82[0m
+[0mGET /health [32m200[0m 0.574 ms - 82[0m
+[0mGET /health [32m200[0m 0.717 ms - 82[0m
+[2025-08-02T10:36:23.350Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[0mPOST /api/auth/login [31m500[0m 5.516 ms - 40[0m
+[2025-08-02T10:36:34.103Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:36:34.104Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[0mPOST /api/auth/login [31m500[0m 36.042 ms - 40[0m
+[2025-08-02T10:36:38.524Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:36:38.525Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[0mPOST /api/auth/login [31m500[0m 9.182 ms - 40[0m
+[2025-08-02T10:37:00.678Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:37:00.679Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[0mPOST /api/auth/login [31m500[0m 7.548 ms - 40[0m
+[2025-08-02T10:37:15.615Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:37:15.967Z] [INFO] User logged in: admin {"userId":"d687886c-2c69-4e86-834d-f1fbe052191f"}
+[0mPOST /api/auth/login [32m200[0m 359.591 ms - 829[0m
+[0mGET /health [32m200[0m 0.293 ms - 82[0m
+[0mGET /health [32m200[0m 0.149 ms - 82[0m
