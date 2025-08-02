@@ -1,0 +1,4 @@
+[2025-08-02T10:31:38.316Z] [INFO] 🚀 FertyFlow Backend Server running on port 5000
+[2025-08-02T10:31:38.317Z] [INFO] 📝 Environment: development
+[2025-08-02T10:31:38.317Z] [INFO] 🌐 CORS enabled for: http://localhost:3000
+[2025-08-02T10:31:38.325Z] [ERROR] ❌ Database connection failed: {}
