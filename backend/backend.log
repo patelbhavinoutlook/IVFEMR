@@ -1,0 +1,12 @@
+
+> fertyflow-backend@1.0.0 dev
+> ts-node-dev --respawn --transpile-only src/server.ts
+
+[INFO] 13:55:02 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.9.2)
+[2025-08-02T13:55:03.075Z] [INFO] 🚀 FertyFlow Backend Server running on port 5000
+[2025-08-02T13:55:03.076Z] [INFO] 📝 Environment: development
+[2025-08-02T13:55:03.076Z] [INFO] 🌐 CORS enabled for: http://localhost:3000
+[2025-08-02T13:55:03.087Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T13:55:03.089Z] [INFO] ✅ Database connection successful. Current time: Sat Aug 02 2025 13:55:03 GMT+0000 (Coordinated Universal Time)
+[0mGET /health [32m200[0m 1.251 ms - 82[0m
+[0mGET /health [32m200[0m 0.279 ms - 82[0m

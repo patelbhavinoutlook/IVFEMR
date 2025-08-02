@@ -1,0 +1,27 @@
+[2025-08-02T10:31:38.316Z] [INFO] 🚀 FertyFlow Backend Server running on port 5000
+[2025-08-02T10:31:38.317Z] [INFO] 📝 Environment: development
+[2025-08-02T10:31:38.317Z] [INFO] 🌐 CORS enabled for: http://localhost:3000
+[2025-08-02T10:31:38.325Z] [ERROR] ❌ Database connection failed: {}
+[2025-08-02T10:32:20.576Z] [INFO] 🚀 FertyFlow Backend Server running on port 5000
+[2025-08-02T10:32:20.576Z] [INFO] 📝 Environment: development
+[2025-08-02T10:32:20.576Z] [INFO] 🌐 CORS enabled for: http://localhost:3000
+[2025-08-02T10:32:20.581Z] [ERROR] ❌ Database connection failed: {}
+[2025-08-02T10:33:09.875Z] [INFO] 🚀 FertyFlow Backend Server running on port 5000
+[2025-08-02T10:33:09.876Z] [INFO] 📝 Environment: development
+[2025-08-02T10:33:09.876Z] [INFO] 🌐 CORS enabled for: http://localhost:3000
+[2025-08-02T10:33:09.886Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:33:09.888Z] [INFO] ✅ Database connection successful. Current time: Sat Aug 02 2025 10:33:09 GMT+0000 (Coordinated Universal Time)
+[2025-08-02T10:36:23.350Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[2025-08-02T10:36:34.103Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:36:34.104Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[2025-08-02T10:36:38.524Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:36:38.525Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[2025-08-02T10:37:00.678Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:37:00.679Z] [ERROR] Login error: {"length":105,"name":"error","severity":"ERROR","code":"42P01","position":"620","file":"parse_relation.c","line":"1449","routine":"parserOpenTable"}
+[2025-08-02T10:37:15.615Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T10:37:15.967Z] [INFO] User logged in: admin {"userId":"d687886c-2c69-4e86-834d-f1fbe052191f"}
+[2025-08-02T13:55:03.075Z] [INFO] 🚀 FertyFlow Backend Server running on port 5000
+[2025-08-02T13:55:03.076Z] [INFO] 📝 Environment: development
+[2025-08-02T13:55:03.076Z] [INFO] 🌐 CORS enabled for: http://localhost:3000
+[2025-08-02T13:55:03.087Z] [INFO] 🔗 Connected to PostgreSQL database
+[2025-08-02T13:55:03.089Z] [INFO] ✅ Database connection successful. Current time: Sat Aug 02 2025 13:55:03 GMT+0000 (Coordinated Universal Time)

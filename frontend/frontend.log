@@ -1,0 +1,14 @@
+
+> fertyflow-frontend@1.0.0 start
+> react-scripts start
+
+Cannot find module 'ajv/dist/compile/codegen'
+Require stack:
+- /workspace/frontend/node_modules/ajv-keywords/dist/definitions/typeof.js
+- /workspace/frontend/node_modules/ajv-keywords/dist/keywords/typeof.js
+- /workspace/frontend/node_modules/ajv-keywords/dist/keywords/index.js
+- /workspace/frontend/node_modules/ajv-keywords/dist/index.js
+- /workspace/frontend/node_modules/schema-utils/dist/validate.js
+- /workspace/frontend/node_modules/schema-utils/dist/index.js
+- /workspace/frontend/node_modules/webpack-dev-server/lib/Server.js
+- /workspace/frontend/node_modules/react-scripts/scripts/start.js
